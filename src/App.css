@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  background: url(https://previews.123rf.com/images/alicjane/alicjane1802/alicjane180200251/96431714-grey-background-of-stone-texture-with-blank-surface.jpg) no-repeat;
+  -webkit-background-size: 100%;
+}
