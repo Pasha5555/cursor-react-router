@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cursor-react-router/static/css/main.032e2053.chunk.css",
+    "main.js": "/cursor-react-router/static/js/main.ce22c2aa.chunk.js",
+    "main.js.map": "/cursor-react-router/static/js/main.ce22c2aa.chunk.js.map",
+    "runtime-main.js": "/cursor-react-router/static/js/runtime-main.d2560c3a.js",
+    "runtime-main.js.map": "/cursor-react-router/static/js/runtime-main.d2560c3a.js.map",
+    "static/js/2.70187ac3.chunk.js": "/cursor-react-router/static/js/2.70187ac3.chunk.js",
+    "static/js/2.70187ac3.chunk.js.map": "/cursor-react-router/static/js/2.70187ac3.chunk.js.map",
+    "index.html": "/cursor-react-router/index.html",
+    "precache-manifest.fdc0b7b02a3d9b3fb1dfea14e7f58731.js": "/cursor-react-router/precache-manifest.fdc0b7b02a3d9b3fb1dfea14e7f58731.js",
+    "service-worker.js": "/cursor-react-router/service-worker.js",
+    "static/css/main.032e2053.chunk.css.map": "/cursor-react-router/static/css/main.032e2053.chunk.css.map",
+    "static/js/2.70187ac3.chunk.js.LICENSE.txt": "/cursor-react-router/static/js/2.70187ac3.chunk.js.LICENSE.txt",
+    "static/media/3.jpg": "/cursor-react-router/static/media/3.a24ad8b0.jpg",
+    "static/media/6.jpg": "/cursor-react-router/static/media/6.94eb1e2d.jpg",
+    "static/media/7.jpg": "/cursor-react-router/static/media/7.4d278c1c.jpg",
+    "static/media/oficial.png": "/cursor-react-router/static/media/oficial.ee8c7cca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2560c3a.js",
+    "static/js/2.70187ac3.chunk.js",
+    "static/css/main.032e2053.chunk.css",
+    "static/js/main.ce22c2aa.chunk.js"
+  ]
+}
