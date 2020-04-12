@@ -18,4 +18,8 @@
 a{
     color: white;
 }
+ul>li:hover{
+    background-color: grey;
+    font-size: 25px;
+}
 

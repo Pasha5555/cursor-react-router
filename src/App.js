@@ -5,8 +5,8 @@ import {
   Route
 } from "react-router-dom";
 
-import Header from './Components/Header';
 import './App.css';
+import Header from './Components/Header';
 import ContactsPage from "./pages/Contacts";
 import PostsPage from "./pages/Posts";
 import HomePage from "./pages/Home";
